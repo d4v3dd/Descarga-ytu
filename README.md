@@ -47,7 +47,7 @@ pip install yt-dlp rich pyfiglet
 
 # 4. Go to SD card and clone repository
 cd /sdcard
-git clone https://github.com/M41NUL/YTP.git
+
 
 # 5. Enter YTP folder
 cd YTP
